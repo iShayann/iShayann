@@ -5,6 +5,7 @@
  # I'm From Kolkata, India.
   
 - ### 18 year old Btech Computer Science and Engineering student from Techno India University,Calcutta,India.
+- ###I'm a competitive coder and ML enthusiast.
 - ### Building [website](http://ishayann.w3spaces.com)
 - ### From Garden High School,ISC Board.
 
@@ -61,7 +62,7 @@
 
 ---
 
-<!-- <p href="mailto:iamsunitroy03@gmail.com"> <img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/mental%20health.gif" padding="25"</p> -->
+<!-- <p href="mailto:sayanbifrosto@gmail.com"> <img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/mental%20health.gif" padding="25"</p> -->
                                       
 # Unmute & Listen to my favourite song! 🎧
 https://user-images.githubusercontent.com/67560900/131628711-9d67d249-77bf-4d4c-8171-9f68d85434f9.mp4
