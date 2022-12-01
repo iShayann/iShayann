@@ -36,12 +36,6 @@
 <a href="mailto:iamsunitroy03@gmail.com"><img src="https://user-images.githubusercontent.com/67560900/142841436-2ec3fd04-8b20-45c3-b8e0-582b0f92641b.png" width="40"></a>|<a href="https://www.linkedin.com/in/sunit-roy/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/HeySunit"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://sunitroy.medium.com/"><img src="https://user-images.githubusercontent.com/67560900/109533536-57d87a80-7ae0-11eb-8602-d312a0cb0b0e.png" width="45"></a>|<a href="https://bit.ly/SunitRoyYT"><img src="https://user-images.githubusercontent.com/67560900/124399599-ef253700-dd39-11eb-8b81-68807fdc3541.png" width="45"></a>|<a href="https://www.instagram.com/sunitroy_/"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Instagram_logo_2016.svg" width="45"></a>|<a href="https://bit.ly/SunitRoyDiscord"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Discord-Logo-Color.svg" width="45"></a>
 |--|--|--|--|--|--|--|
 
-![](https://activity-graph.herokuapp.com/graph?username=SunitRoy2703&theme=react-dark&hide_border=true&area=true)
-
- 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sunitroy2703&count_private=true&show_icons=true&theme=light" width="400"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunitroy2703" width="400">
-
  ### 📚 Most Used Languages
  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunitRoy2703&layout=compact" width="400" />
  <img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400">
