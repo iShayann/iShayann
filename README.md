@@ -2,7 +2,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="ishayann.w3spaces.com" target="_blank">Sayan Banerjee</a>. Nice to see you.🤗 </h1> 
 
 
- # I'm From Kolkata, India.
+ # I'm From Calcutta, India.
   
 - ### 18 year old Btech Computer Science and Engineering student from Techno India University,Calcutta,India.
 - ### I'm a competitive coder and ML enthusiast.
