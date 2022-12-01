@@ -1,23 +1,12 @@
 <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="sunit.in" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1> 
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="ishayann.w3spaces.com" target="_blank">Sayan Banerjee</a>. Nice to see you.🤗 </h1> 
 
 
  # I'm From Kolkata, India.
   
-- ### 20 year old Electronics & Tele-Communications Engineering Diploma Student.
-- ### Building [Kitepay](http://kitepay.org)
-- ### Teach Android development on my [Youtube channel](https://www.youtube.com/SunitRoy)
-- ### [Kolkata Twitter Developer Community](https://twitterdev.bevylabs.com/kolkata-twitter-developer-community/) Lead
-- ### Freelance [Android Developer](mailto:iamsunitroy03@gmail.com) 
-- ### [Github Campus Expert](https://githubcampus.expert/SunitRoy2703/) 🚩
-- ### Given [talks](https://bit.ly/SunitRoyAllSeminars) on [Android Dev](https://youtu.be/B0Tf4SRlzXY), [TFLite](https://youtu.be/sZayUoWW6nE) & [Open Source](https://youtu.be/iws-QGALzLk)
-- ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
-- ### Ex-Software Developer at a start-up called Wholesome Company. 
-- ### Designed & developed mobile apps using various SDKs like Android, Flutter, IOS, TFLite, Firebase, ARcore, MLkit.
-- ### Published [multiple apps](https://bit.ly/SunitRoyPlaystore) in the Play store
-- ### Join our 200+ developer [discord community](https://bit.ly/SunitRoyDiscord)
-- ### Write [Technical blogs](https://sunitroy.medium.com/)
-
+- ### 18 year old Btech Computer Science and Engineering student from Techno India University,Calcutta,India.
+- ### Building [website](http://ishayann.w3spaces.com)
+- ### From Garden High School,ISC Board.
 
  <img align="center" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="400" alt="androidgif">
 
