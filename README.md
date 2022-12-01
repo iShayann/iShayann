@@ -5,7 +5,7 @@
  # I'm From Kolkata, India.
   
 - ### 18 year old Btech Computer Science and Engineering student from Techno India University,Calcutta,India.
-- ###I'm a competitive coder and ML enthusiast.
+- ### 18 year old Btech Computer Science and Engineering student from Techno India University,Calcutta,India.
 - ### Building [website](http://ishayann.w3spaces.com)
 - ### From Garden High School,ISC Board.
 
