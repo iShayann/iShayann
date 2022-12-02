@@ -77,13 +77,13 @@
   <div align="center">
   <img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg>             </div>
 
-# Unmute & Listen to my favourite song! 🎧
-
-https://user-images.githubusercontent.com/115067200/205110521-1fcc4d97-6896-403e-81de-ac683aabc135.mp4
-
-
  <div align="center"><img width="720" height="auto" src=https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg
 ></div>
 
  <div align="center"><img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg
 ></div>
+ 
+# Unmute & Listen to my favourite song! 🎧
+
+https://user-images.githubusercontent.com/115067200/205110521-1fcc4d97-6896-403e-81de-ac683aabc135.mp4
+
