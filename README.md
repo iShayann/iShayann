@@ -21,7 +21,8 @@
 - ### From Garden High School,ISC Board.
 
  <img align="center" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="400" alt="androidgif">
-
+ <div align="center"><img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg
+></div> 
  ## Tools & Technologies:
 <p align="left">
 <a href="https://developer.android.com"><img src="https://user-images.githubusercontent.com/67560900/135036263-b84d2aae-75e0-41d4-a38e-7bd47ca684a8.png" width="70" padding="25"</a>
@@ -47,11 +48,10 @@
 <a href="mailto:sayanbifrosto@gmail.com"><img src="https://user-images.githubusercontent.com/67560900/142841436-2ec3fd04-8b20-45c3-b8e0-582b0f92641b.png" width="40"></a>|<a href="https://www.linkedin.com/in/sayan-banerjee-535b5a253/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/sayanbifrosto"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://medium.com/@sayanbifrosto"><img src="https://user-images.githubusercontent.com/67560900/109533536-57d87a80-7ae0-11eb-8602-d312a0cb0b0e.png" width="45"></a>|<a href="https://www.youtube.com/channel/UCU8EkOStfDB8DF6MJY4aAZA"><img src="https://user-images.githubusercontent.com/67560900/124399599-ef253700-dd39-11eb-8b81-68807fdc3541.png" width="45"></a>|<a href="https://www.instagram.com/_vernon_montiero_/"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Instagram_logo_2016.svg" width="45"></a>|<a href=""><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Discord-Logo-Color.svg" width="45"></a>
 |--|--|--|--|--|--|--|
 
+
  ### 📚 Most Used Languages
  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShayann&layout=compact" width="400" />
  <img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400">
- <div align="center"><img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg
-></div> 
  --- 
 
  
