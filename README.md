@@ -50,7 +50,8 @@
  ### 📚 Most Used Languages
  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShayann&layout=compact" width="400" />
  <img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400">
- 
+ <div align="center"><img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg
+></div> 
  --- 
 
  
