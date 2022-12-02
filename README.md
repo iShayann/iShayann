@@ -88,3 +88,6 @@ https://user-images.githubusercontent.com/115067200/205110521-1fcc4d97-6896-403e
 
  <div align="center"><img width="720" height="auto" src=https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg
 ></div>
+
+ <div align="center"><img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg
+></div>
