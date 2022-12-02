@@ -78,8 +78,6 @@
   <div align="center">
   <img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg>             </div>
 
- <div align="center"><img width="720" height="auto" src=https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg
-></div>
 
  <div align="center"><img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg
 ></div>
