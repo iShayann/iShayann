@@ -1,7 +1,7 @@
 
 <h1 align="center">💠 ようこそ 💠</h1>
 <div align="center">
-  <img width="720" height="auto" src=![FSN](https://user-images.githubusercontent.com/115067200/205213226-98fd8b98-a68c-4eee-8d5e-903852f0605e.gif)
+  <img width="720" height="auto" src=https://user-images.githubusercontent.com/115067200/205213226-98fd8b98-a68c-4eee-8d5e-903852f0605e.gif
 >
 </div>
 
