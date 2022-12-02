@@ -79,8 +79,7 @@
   <img width="720" height="auto" src=https://camo.githubusercontent.com/4140f71e43d7b8e18213176e0ae193ce5af3dc5e8df01e406ec62ca408c5dca3/68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966>             </div>
 
   <div align="center">
-  <img width="720" height="auto" src=https://camo.githubusercontent.com/4140f71e43d7b8e18213176e0ae193ce5af3dc5e8df01e406ec62ca408c5dca3/68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966
->             </div>
+  <img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg>             </div>
 
 # Unmute & Listen to my favourite song! 🎧
 
