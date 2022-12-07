@@ -24,6 +24,9 @@
  <img align="center" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="400" alt="androidgif">
  <div align="center"><img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg
 ></div> 
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<br/>
+
  ## Tools & Technologies:
 <p align="left">
 <a href="https://developer.android.com"><img src="https://user-images.githubusercontent.com/67560900/135036263-b84d2aae-75e0-41d4-a38e-7bd47ca684a8.png" width="70" padding="25"</a>
