@@ -75,9 +75,7 @@
 <!-- <p href="mailto:sayanbifrosto@gmail.com"> <img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/mental%20health.gif" padding="25"</p> -->
 
   <img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg> 
-  
-<img width="720" height="auto" src=https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966> 
-  
+  <img src="https://camo.githubusercontent.com/93b08cf9dfcbf01a8306ebc9b8acd61b0f4fbd9d2fb7cece3d6dbd6a56060c19/68747470733a2f2f692e696d6775722e636f6d2f5943773437446d2e676966" data-canonical-src="https://i.imgur.com/YCw47Dm.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   <img width="720" height="auto" src=https://camo.githubusercontent.com/93b08cf9dfcbf01a8306ebc9b8acd61b0f4fbd9d2fb7cece3d6dbd6a56060c19/68747470733a2f2f692e696d6775722e636f6d2f5943773437446d2e676966>  
   <div align="center">
 <img src="https://camo.githubusercontent.com/d58581056e21f247a106da6b1a45a71dfd21a4e1804da9f19246b5a58df267c6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4950377361726c3743356c534643773972472f67697068792e676966" height="100px" data-canonical-src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
