@@ -75,10 +75,10 @@
 <!-- <p href="mailto:sayanbifrosto@gmail.com"> <img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/mental%20health.gif" padding="25"</p> -->
 
   <div align="center">
-  <img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg>             </div>
-  <div align="center">
-  <img width="720" height="auto" src=https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966>             </div>
-
+  <img width="720" height="auto" src=https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg>   
+<img width="720" height="auto" src=https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966> 
+</div>
+  
   <div align="center">
   <img width="720" height="auto" src=https://camo.githubusercontent.com/4140f71e43d7b8e18213176e0ae193ce5af3dc5e8df01e406ec62ca408c5dca3/68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966>             </div>
 
