@@ -82,6 +82,8 @@
   <div align="center">
 <img src="https://camo.githubusercontent.com/d58581056e21f247a106da6b1a45a71dfd21a4e1804da9f19246b5a58df267c6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4950377361726c3743356c534643773972472f67697068792e676966" height="100px" data-canonical-src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </div>
+  <br>
+  <br>
   <div align="center">
   <img width="720" height="auto" src=https://camo.githubusercontent.com/4140f71e43d7b8e18213176e0ae193ce5af3dc5e8df01e406ec62ca408c5dca3/68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966>             </div>
 
