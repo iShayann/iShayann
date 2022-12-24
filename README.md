@@ -6,7 +6,7 @@
   <img width="720" height="auto" src=https://user-images.githubusercontent.com/115067200/205213226-98fd8b98-a68c-4eee-8d5e-903852f0605e.gif
 >
 </div>
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue)](https://github.com/sponsors/USERNAME)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue)](https://github.com/sponsors/iShayann)
 
 <br>
 <br>
